@@ -1,0 +1,30 @@
+
+{
+  "host": "http://d.ottcn.com/qmjs/api",
+  "carousel": "/video/fineCarousels",
+  "jxlist": "/video/fineLists",
+  "comment": "/video/getComment",
+  "postcomment": "/video/setComment",
+  "getAccessToken": "/third_auth.php",
+  "getVideoInfo": "/video/getVideoInfo",
+  "yuntu": "/yuntu/local",
+  "yuntusign": "/yuntu/getSig",
+  "refreshtime": "/yuntu/getRefreshTime2",
+  "vv": "/cases/play",
+  "videoPageView": "/cases/videoPageView",
+  "singlePageView": "/cases/singlePageView",
+  "matrixlist": "/video/getDepteLists",
+  "speciallist": "/video/specialVideos",
+  "specialShareInfo": "/video/getSpecialShareInfo",
+  "typeicon": {
+    "回看": "./src/assets/img/replay_icon.png",
+    "回放": "./src/assets/img/replay_icon.png",
+    "10": "./src/assets/img/politics_icon.png",
+    "20": "./src/assets/img/breakout_icon.png",
+    "直播": "./src/assets/img/live_icon.png",
+    "普通专题": "./src/assets/img/banner-icon-special.png",
+    "shortVideo": "./src/assets/img/sv_icon.png",
+    "短视频": "./src/assets/img/sv_icon.png"
+  }
+}
+
